@@ -18,12 +18,12 @@ Deploy the contract on the Avalanche Fuji Testnet (or other supported networks) 
 After deployment, note the contract address for interaction.
 
 ### Interacting with the Contract
-- Once the Degen Gaming Token contract is deployed, you can interact with it using various methods:
-- Minting New Tokens: Only the contract owner can mint new tokens. Call the mint function with the desired recipient's address and the amount of tokens to be minted as arguments. This function will create new tokens and distribute them to the specified address.
-- Transferring Tokens: Token holders can transfer their tokens to other addresses using the transfer function. Provide the recipient's address and the amount of tokens to be transferred as arguments to this function.
-- Burning Tokens: Any token holder can burn their own tokens if they no longer need them. Use the burn function with the amount of tokens to be burned as an argument. The tokens will be permanently removed from the sender's balance.
-- Redeeming Tokens: Token holders can redeem their tokens for in-game items or rewards by calling the redeem function with the amount of tokens to be redeemed as an argument. The function will burn the specified amount of tokens from the sender's balance.
-- Checking Token Balance: You can check the token balance of any address by calling the checkBalance function with the address as an argument. This function returns the balance of the specified address.
+ - Once the Degen Gaming Token contract is deployed, you can interact with it using various methods:
+ - Minting New Tokens: Only the contract owner can mint new tokens. Call the mint function with the desired recipient's address and the amount of tokens to be minted as arguments. This function will create new tokens and distribute them to the specified address.
+ - Transferring Tokens: Token holders can transfer their tokens to other addresses using the transfer function. Provide the recipient's address and the amount of tokens to be transferred as arguments to this function.
+ - Burning Tokens: Any token holder can burn their own tokens if they no longer need them. Use the burn function with the amount of tokens to be burned as an argument. The tokens will be permanently removed from the sender's balance.
+ - Redeeming Tokens: Token holders can redeem their tokens for in-game items or rewards by calling the redeem function with the amount of tokens to be redeemed as an argument. The function will burn the specified amount of tokens from the sender's balance.
+ - Checking Token Balance: You can check the token balance of any address by calling the checkBalance function with the address as an argument. This function returns the balance of the specified address.
 
 Authors
 Nikhil Sharma
