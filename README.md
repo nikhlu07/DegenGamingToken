@@ -1,5 +1,5 @@
 # Degen Gaming Token (DGN)
-This Degen Gaming Token is simple token which using some function like minting, redeem.
+The Degen Gaming Token (DGN) is a decentralized digital asset based on the Ethereum blockchain, following the ERC20 standard.
 
 ## Description
 The Degen Gaming Token (DGN) is an ERC20 token designed for gaming platforms, offering in-game rewards and the ability to redeem tokens for exclusive in-game items. The token facilitates a decentralized and transparent gaming ecosystem, where players can be incentivized for their engagement and skill in various games. The contract includes minting, transferring, burning, and redeeming functionalities, allowing the platform owner to reward players with new tokens and granting players the freedom to trade, use, or redeem their earned tokens.
