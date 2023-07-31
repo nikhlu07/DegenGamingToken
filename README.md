@@ -9,13 +9,13 @@ Installing
 To use the Degen Gaming Token contract, you can download or clone the repository containing the smart contract code.
 
 ### Executing Program
-Open the smart contract file (DegenToken.sol) in a Solidity development environment (e.g., Remix, Truffle, or Hardhat).
+ - Open the smart contract file (DegenToken.sol) in a Solidity development environment (e.g., Remix, Truffle, or Hardhat).
 
-Compile the contract to ensure there are no compilation errors.
+ - Compile the contract to ensure there are no compilation errors.
 
-Deploy the contract on the Avalanche Fuji Testnet (or other supported networks) using your preferred deployment tool.
+ - Deploy the contract on the Avalanche Fuji Testnet (or other supported networks) using your preferred deployment tool.
 
-After deployment, note the contract address for interaction.
+ - After deployment, note the contract address for interaction.
 
 ### Interacting with the Contract
  - Once the Degen Gaming Token contract is deployed, you can interact with it using various methods:
