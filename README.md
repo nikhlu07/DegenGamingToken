@@ -26,6 +26,6 @@ To use the Degen Gaming Token contract, you can download or clone the repository
  - Checking Token Balance: You can check the token balance of any address by calling the checkBalance function with the address as an argument. This function returns the balance of the specified address.
 
 Authors
-Nikhil Sharma
-Contributors are welcome! Feel free to submit pull requests or collaborate on the project to improve the functionality or add new features.
+ - Nikhil Sharma
+ - Contributors are welcome! Feel free to submit pull requests or collaborate on the project to improve the functionality or add new features.
 
