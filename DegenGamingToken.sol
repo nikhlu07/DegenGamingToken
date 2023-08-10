@@ -20,10 +20,6 @@ contract DegenToken is ERC20, Ownable {
 
         uint256 cost = prizeCosts[prizeId];
         _burn(msg.sender, cost);
-
-        // Implement your logic for redeeming the selected prize here.
-        // For example, you can use events or console.log messages to indicate successful redemption.
-
         emit PrizeRedeemed(msg.sender, prizeId, cost);
     }
 
